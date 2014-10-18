@@ -33,3 +33,8 @@ http://laht.info/WebGL/DK2Demo.html
 Open dest/index.html In your browser that supports WebGL.
 
 (You must use a local server.)
+
+If you have installed Chrome on your PC, you can also use the following command.
+```
+grunt connect
+```
