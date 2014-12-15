@@ -6,10 +6,37 @@
   "bundle": "typings/tsd.d.ts",
   "installed": {
     "threejs/three.d.ts": {
-      "commit": "4dd796bb15c51e5bc0efd74605fbc9de46773ca5"
+      "commit": "0d595e843d872c24d8f45dd7df9c15404e6daff4"
     },
     "stats/stats.d.ts": {
-      "commit": "4dd796bb15c51e5bc0efd74605fbc9de46773ca5"
+      "commit": "0d595e843d872c24d8f45dd7df9c15404e6daff4"
+    },
+    "jquery/jquery.d.ts": {
+      "commit": "0d595e843d872c24d8f45dd7df9c15404e6daff4"
+    },
+    "webaudioapi/waa.d.ts": {
+      "commit": "0d595e843d872c24d8f45dd7df9c15404e6daff4"
+    },
+    "threejs/three-effectcomposer.d.ts": {
+      "commit": "0d595e843d872c24d8f45dd7df9c15404e6daff4"
+    },
+    "threejs/three-shaderpass.d.ts": {
+      "commit": "0d595e843d872c24d8f45dd7df9c15404e6daff4"
+    },
+    "threejs/three-copyshader.d.ts": {
+      "commit": "0d595e843d872c24d8f45dd7df9c15404e6daff4"
+    },
+    "threejs/three-renderpass.d.ts": {
+      "commit": "0d595e843d872c24d8f45dd7df9c15404e6daff4"
+    },
+    "threejs/detector.d.ts": {
+      "commit": "0d595e843d872c24d8f45dd7df9c15404e6daff4"
+    },
+    "touch-events/touch-events.d.ts": {
+      "commit": "0d595e843d872c24d8f45dd7df9c15404e6daff4"
+    },
+    "chroma-js/chroma-js.d.ts": {
+      "commit": "0d595e843d872c24d8f45dd7df9c15404e6daff4"
     }
   }
 }
